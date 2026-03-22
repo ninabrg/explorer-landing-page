@@ -1,0 +1,18 @@
+/* Importation des composants depuis le sous-dossier */
+@import url("components/container.css");
+@import url("components/banner.css");
+@import url("components/button.css");
+@import url("components/card.css");
+
+/* Styles Généraux */
+body {
+  margin: 0;
+  font-family: 'Open Sans', sans-serif;
+  color: #333;
+}
+h1, h2, h3 {
+  font-family: 'Poppins', sans-serif;
+}
+.text-center {
+  text-align: center;
+}
